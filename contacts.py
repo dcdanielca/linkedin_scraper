@@ -34,12 +34,11 @@ def get_info_contacts(browser, df):
     count = 1
     contacts = df[df['scrapeado?'] == False].values
     # Extraer informacion de contacto
-    for contact in contacts:
-        index = contact[0]
+    for index, contact in enumerate(contacts):
         if count % 100 == 0:
             browser.close()
             browser = login()
-        browser.get(contact[2] + "detail/contact-info/")
+        browser.get(contact[1] + "detail/contact-info/")
         browser.implicitly_wait(3)
         contact_page = bs(browser.page_source, features="html.parser")
 
@@ -93,35 +92,36 @@ def get_all_contacts():
     if len(existent_csv) != 0:
         df = pd.read_csv('contacts.csv')
         get_info_contacts(browser, df)
-    else:
-        browser.get("https://www.linkedin.com/mynetwork/invite-connect/connections/")
+        return
 
-        # Haciendo scroll para obetener todos los contactos
-        last_height = 0
-        while True:
-            # Scroll down to bottom
-            browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            # Wait to load page
-            time.sleep(random.uniform(2.5, 4.9))
-            # Calculate new scroll height and compare with total scroll height
-            new_height = browser.execute_script("return document.body.scrollHeight")
-            if new_height == last_height:
-                break
-            last_height = new_height
+    browser.get("https://www.linkedin.com/mynetwork/invite-connect/connections/")
 
-        # Patrón de links de contactos 
-        page = bs(browser.page_source, features="html.parser")
-        content = page.find_all('a', {'class':"mn-connection-card__link ember-view"})
-        mynetwork = []
-        for contact in content:
-            mynetwork.append('https://www.linkedin.com' + contact.get('href'))
+    # Haciendo scroll para obetener todos los contactos
+    last_height = 0
+    while True:
+        # Scroll down to bottom
+        browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        # Wait to load page
+        time.sleep(random.uniform(2.5, 4.9))
+        # Calculate new scroll height and compare with total scroll height
+        new_height = browser.execute_script("return document.body.scrollHeight")
+        if new_height == last_height:
+            break
+        last_height = new_height
 
-        # Creando csv con la información de contactos
-        df = pd.DataFrame(columns = ['scrapeado?', 'link', 'nombre', 'empresa', 'cargo', 'celular', 'email'])
-        df['link'] = mynetwork
-        df['scrapeado'] = False
-        df.to_csv('contacts.csv', index=False)
-        get_info_contacts(browser, df) 
+    # Patrón de links de contactos 
+    page = bs(browser.page_source, features="html.parser")
+    content = page.find_all('a', {'class':"mn-connection-card__link ember-view"})
+    mynetwork = []
+    for contact in content:
+        mynetwork.append('https://www.linkedin.com' + contact.get('href'))
+
+    # Creando csv con la información de contactos
+    df = pd.DataFrame(columns = ['scrapeado?', 'link', 'nombre', 'empresa', 'cargo', 'celular', 'email'])
+    df['link'] = mynetwork
+    df['scrapeado?'] = False
+    df.to_csv('contacts.csv', index=False)
+    get_info_contacts(browser, df) 
     
 if __name__ == "__main__":
     starting_point = time.time()
