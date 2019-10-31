@@ -11,34 +11,36 @@ import glob
 import re 
 
 
-def login():
-    email = input("Ingrese email: ")
-    password = getpass("Ingrese password: ")
+def login(email_input=None, password_input=None):
+    if not email_input and not password_input:
+        email_input = input("Ingrese email: ")
+        password_input = getpass("Ingrese password: ")
 
     # Abriendo navegador
     browser = webdriver.Chrome(os.getcwd() + '/chromedriver')
     browser.get("https://www.linkedin.com")
     browser.maximize_window()
-    browser.implicitly_wait(2)
+    browser.implicitly_wait(3)
 
     # Realizando login
     email_element = browser.find_element_by_name("session_key")
-    email_element.send_keys(email)
+    email_element.send_keys(email_input)
     pass_element = browser.find_element_by_name("session_password")
-    pass_element.send_keys(password)
+    pass_element.send_keys(password_input)
     pass_element.submit()
     browser.implicitly_wait(3)
-    return browser
+    return browser, email_input, password_input
 
-def get_info_contacts(browser, df):
+def get_info_contacts(browser, df, email_input, password_input):
     count = 1
     contacts = df[df['scrapeado?'] == False].values
     # Extraer informacion de contacto
-    for index, contact in enumerate(contacts):
+    for contact in contacts:
+        index = contact[0]
         if count % 100 == 0:
             browser.close()
-            browser = login()
-        browser.get(contact[1] + "detail/contact-info/")
+            browser, email_input, password_input = login(email_input, password_input)
+        browser.get(contact[2] + "detail/contact-info/")
         browser.implicitly_wait(3)
         contact_page = bs(browser.page_source, features="html.parser")
 
@@ -46,7 +48,7 @@ def get_info_contacts(browser, df):
         name_elements = contact_page.find_all("h1", id="pv-contact-info")
         for name in name_elements:
             df.loc[index, 'nombre'] = name.get_text()
-
+            df.loc[index, 'scrapeado?'] = True
         # Email
         email_elements = contact_page.find_all('a', href=re.compile("mailto"))
         for email in email_elements:
@@ -77,7 +79,7 @@ def get_info_contacts(browser, df):
                 df.loc[index, 'empresa'] = company[0].find_all('span')[1].get_text()
                 position = first_job.find_all('h3', {'class': 't-14 t-black t-bold'})
                 df.loc[index, 'cargo'] = position[0].find_all('span')[1].get_text()
-        df.loc[index, 'scrapeado?'] = True
+        
         df.to_csv('contacts.csv', index=False)
         count +=1
         # wait few seconds before to connect to the next profile
@@ -85,13 +87,12 @@ def get_info_contacts(browser, df):
 
 def get_all_contacts():
 
-    browser = login()
-
+    browser, email_input, password_input = login()
     # Verificando que no existe csv con contactos para no sobrescribir información
     existent_csv = glob.glob('contacts.csv')
     if len(existent_csv) != 0:
         df = pd.read_csv('contacts.csv')
-        get_info_contacts(browser, df)
+        get_info_contacts(browser, df, email_input, password_input)
         return
 
     browser.get("https://www.linkedin.com/mynetwork/invite-connect/connections/")
@@ -117,11 +118,12 @@ def get_all_contacts():
         mynetwork.append('https://www.linkedin.com' + contact.get('href'))
 
     # Creando csv con la información de contactos
-    df = pd.DataFrame(columns = ['scrapeado?', 'link', 'nombre', 'empresa', 'cargo', 'celular', 'email'])
+    df = pd.DataFrame(columns = ['index', 'scrapeado?', 'link', 'nombre', 'empresa', 'cargo', 'celular', 'email'])
     df['link'] = mynetwork
+    df['index'] = [i for i in range(len(mynetwork))]
     df['scrapeado?'] = False
     df.to_csv('contacts.csv', index=False)
-    get_info_contacts(browser, df) 
+    get_info_contacts(browser, df, email_input, password_input) 
     
 if __name__ == "__main__":
     starting_point = time.time()
