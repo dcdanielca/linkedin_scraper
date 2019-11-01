@@ -1,0 +1,429 @@
+index,scrapeado?,link,nombre,empresa,cargo,celular,email,page
+0,True,https://www.linkedin.com/in/miguel-angel-puerta-cardona-89298a171/,"
+      Miguel Angel Puerta Cardona
+    ",Retired Life, I am a writer,,puertamiguelangel@yahoo.com,1
+1,True,https://www.linkedin.com/in/michael-ordo%C3%B1ez-74406a168/,"
+      Michael Ordoñez
+    ",,,,msordonezr@unal.edu.co,1
+2,True,https://www.linkedin.com/in/brayan-juagibioy-39b13b153/,"
+      Brayan Juagibioy
+    ",,,,bochindoyj@unal.edu.co,1
+3,True,https://www.linkedin.com/in/santiago-cadavid-gutierrez-6443a1177/,"
+      Santiago Cadavid Gutierrez
+    ",,,,scadavidg@unal.edu.co,1
+4,True,https://www.linkedin.com/in/eva-sandry-marmolejo-50099016a/,"
+      Eva Sandry Marmolejo
+    ",,,,evamar.9814@gmail.com,1
+5,True,https://www.linkedin.com/in/andrea-becerra-3a14a5174/,"
+      Andrea Becerra
+    ",,,,avbecerrad@unal.edu.co,1
+6,True,https://www.linkedin.com/in/brahian-urrego-b2a074154/,"
+      Brahian Urrego
+    ",,,,bcanou@unal.edu.co,1
+7,True,https://www.linkedin.com/in/vincent-restrepo/,"
+      Vincent Restrepo
+    ",Crowdswap,Head of Android Development,,vincentrestrepo@gmail.com,1
+8,True,https://www.linkedin.com/in/lucy-rojas-lopez-891506182/,"
+      Lucy Rojas Lopez
+    ",Alpha project,Agente independiente,,llucy8197@gmail.com,1
+9,True,https://www.linkedin.com/in/alejandro-gaviria-sepulveda-00077084/,"
+      Alejandro Gaviria Sepulveda
+    ",SEQUAL,Analista de calidad,,agavirias@unal.edu.co,1
+10,True,https://www.linkedin.com/in/miguel-angel-puerta-cardona-89298a171/,"
+      Miguel Angel Puerta Cardona
+    ",Retired Life, I am a writer,,puertamiguelangel@yahoo.com,1
+11,True,https://www.linkedin.com/in/michael-ordo%C3%B1ez-74406a168/,"
+      Michael Ordoñez
+    ",,,,msordonezr@unal.edu.co,1
+12,True,https://www.linkedin.com/in/brayan-juagibioy-39b13b153/,"
+      Brayan Juagibioy
+    ",,,,bochindoyj@unal.edu.co,1
+13,True,https://www.linkedin.com/in/santiago-cadavid-gutierrez-6443a1177/,"
+      Santiago Cadavid Gutierrez
+    ",,,,scadavidg@unal.edu.co,1
+14,True,https://www.linkedin.com/in/eva-sandry-marmolejo-50099016a/,"
+      Eva Sandry Marmolejo
+    ",,,,evamar.9814@gmail.com,1
+15,True,https://www.linkedin.com/in/andrea-becerra-3a14a5174/,"
+      Andrea Becerra
+    ",,,,avbecerrad@unal.edu.co,1
+16,True,https://www.linkedin.com/in/brahian-urrego-b2a074154/,"
+      Brahian Urrego
+    ",,,,bcanou@unal.edu.co,1
+17,True,https://www.linkedin.com/in/vincent-restrepo/,"
+      Vincent Restrepo
+    ",Crowdswap,Head of Android Development,,vincentrestrepo@gmail.com,1
+18,True,https://www.linkedin.com/in/lucy-rojas-lopez-891506182/,"
+      Lucy Rojas Lopez
+    ",Alpha project,Agente independiente,,llucy8197@gmail.com,1
+19,True,https://www.linkedin.com/in/alejandro-gaviria-sepulveda-00077084/,"
+      Alejandro Gaviria Sepulveda
+    ",SEQUAL,Analista de calidad,,agavirias@unal.edu.co,1
+20,True,https://www.linkedin.com/in/layborsas/,"
+      Lisandro Alberto Ballesteros
+    ",Laybor SAS,Gerente,,lisandro.ballesteros@gmail.com,2
+21,True,https://www.linkedin.com/in/maribel-echavarria-605a16159/,"
+      Maribel echavarria
+    ",,,,3145290526ma@gmail.com,2
+22,True,https://www.linkedin.com/in/laura-acevedo-sanchez-53052a126/,"
+      Laura Acevedo Sanchez
+    ",Sectorial,Analisis Especial,,laura.acevedo@sectorial.co,2
+23,True,https://www.linkedin.com/in/jordan-alexis-suarez-guzman-b5a8b1159/,"
+      Jordan Alexis Suarez Guzman
+    ",Industrias Offiline,Auxiliar de sistema,,jordansuareztpp@outlook.com,2
+24,True,https://www.linkedin.com/in/jaimegallegor/,"
+      Jaime Alejandro Gallego Ramirez
+    ",Condor Labs ,Ingeniero de desarrollo de software,,jgallego.dev@gmail.com,2
+25,True,https://www.linkedin.com/in/juan-david-cano-3bb83127/,"
+      Juan David Cano
+    ",Diez equis,Gerente,,juan.cano@diezequis.com,2
+26,True,https://www.linkedin.com/in/ultracom-it-s-a-s-656604149/,"
+      Ultracom IT S.A.S.
+    ",,,4031939,negocios@ultracom.com.co,2
+27,True,https://www.linkedin.com/in/daniel-cata%C3%B1o-restrepo-b8a4929a/,"
+      Daniel Cataño Restrepo
+    ",Cidenet S.A.S.,Software analyst,,dcatanor@unal.edu.co,2
+28,False,https://www.linkedin.com/in/nbuitragob/,,,,,,2
+29,False,https://www.linkedin.com/in/santiago-restrepo-osorio-731416151/,,,,,,2
+30,False,https://www.linkedin.com/in/jors-breiner-castro-montezuma-845816127/,,,,,,3
+31,False,https://www.linkedin.com/in/katy-benitez-11999178/,,,,,,3
+32,False,https://www.linkedin.com/in/sofia-beatriz-velasquez-fernandez-a2469817b/,,,,,,3
+33,False,https://www.linkedin.com/in/jairdiaz19/,,,,,,3
+34,False,https://www.linkedin.com/in/richard-turizo-pinilla-a34a8b151/,,,,,,3
+35,False,https://www.linkedin.com/in/johan-sebastian-paneso-zapata-818043113/,,,,,,3
+36,False,https://www.linkedin.com/in/angelrios237934155/,,,,,,3
+37,False,https://www.linkedin.com/in/carlos-mario-estrada-puerta-584a0a174/,,,,,,3
+38,False,https://www.linkedin.com/in/luz-angela-lozano-perez-08b13b37/,,,,,,3
+39,False,https://www.linkedin.com/in/juan-pablo-villegas-g%C3%B3mez-91ba16148/,,,,,,3
+40,False,https://www.linkedin.com/in/jeferson-tapias-escudero-2195b0166/,,,,,,4
+41,False,https://www.linkedin.com/in/diego-salazar-gonzalez-632290b3/,,,,,,4
+42,False,https://www.linkedin.com/in/brandon-gallego-5539ba177/,,,,,,4
+43,False,https://www.linkedin.com/in/juan-martinez-34667841/,,,,,,4
+44,False,https://www.linkedin.com/in/cocrear-gestion-humana-bb47a0170/,,,,,,4
+45,False,https://www.linkedin.com/in/andr%C3%A9s-david-tamayo-palomino-a96123158/,,,,,,4
+46,False,https://www.linkedin.com/in/diego-duran-ruiz-9774305b/,,,,,,4
+47,False,https://www.linkedin.com/in/silvia-salazar-011696128/,,,,,,4
+48,False,https://www.linkedin.com/in/germ%C3%A1n-franco-425104190/,,,,,,4
+49,False,https://www.linkedin.com/in/ricardo-andres-arango-ruiz-581b02167/,,,,,,4
+50,False,https://www.linkedin.com/in/caop/,,,,,,5
+51,False,https://www.linkedin.com/in/laura-barrera-arias-b14b71173/,,,,,,5
+52,False,https://www.linkedin.com/in/widodevries/,,,,,,5
+53,False,https://www.linkedin.com/in/sebastian-pino-s%C3%A1nchez-b3ab5a174/,,,,,,5
+54,False,https://www.linkedin.com/in/julieth-geraldine-alvarez-gomez-7a6973148/,,,,,,5
+55,False,https://www.linkedin.com/in/sebastian-cano-estrada-2b5600176/,,,,,,5
+56,False,https://www.linkedin.com/in/danna-rozo-250656a7/,,,,,,5
+57,False,https://www.linkedin.com/in/martineliasq/,,,,,,5
+58,False,https://www.linkedin.com/in/ricardo-lara-espinosa-98015861/,,,,,,5
+59,False,https://www.linkedin.com/in/itbf-consulting-859b20114/,,,,,,5
+60,False,https://www.linkedin.com/in/paola-andrea-casta%C3%B1eda-osorno-0b92b1157/,,,,,,6
+61,False,https://www.linkedin.com/in/jamunoz96/,,,,,,6
+62,False,https://www.linkedin.com/in/secretaria-fisioterapia-51a60b152/,,,,,,6
+63,False,https://www.linkedin.com/in/david-acevedocg/,,,,,,6
+64,False,https://www.linkedin.com/in/jose-alejandro-aristizabal-hoyos-937025152/,,,,,,6
+65,False,https://www.linkedin.com/in/lesty-delgado-palacios-7561a5133/,,,,,,6
+66,False,https://www.linkedin.com/in/elianalopezv/,,,,,,6
+67,False,https://www.linkedin.com/in/italent-partners-890141165/,,,,,,6
+68,False,https://www.linkedin.com/in/andres-velez-483a2a86/,,,,,,6
+69,False,https://www.linkedin.com/in/ldpenal/,,,,,,6
+70,False,https://www.linkedin.com/in/maria-fernanda-ramirez-castillo-67508a16/,,,,,,7
+71,False,https://www.linkedin.com/in/felipe-llerena-catalan-987405128/,,,,,,7
+72,False,https://www.linkedin.com/in/lualopezpe/,,,,,,7
+73,False,https://www.linkedin.com/in/paul-smith-229860169/,,,,,,7
+74,False,https://www.linkedin.com/in/andr%C3%A9s-arredondo-hern%C3%A1ndez/,,,,,,7
+75,False,https://www.linkedin.com/in/juliana-uribe-a19712159/,,,,,,7
+76,False,https://www.linkedin.com/in/jucmarinlo/,,,,,,7
+77,False,https://www.linkedin.com/in/alejandro-duque-correa-98893a158/,,,,,,7
+78,False,https://www.linkedin.com/in/sh-solutions-356892161/,,,,,,7
+79,False,https://www.linkedin.com/in/atech-aseneg-30a40516b/,,,,,,7
+80,False,https://www.linkedin.com/in/christian-villa-saldarriaga-85360235/,,,,,,8
+81,False,https://www.linkedin.com/in/gustavo-preciado-32104bb6/,,,,,,8
+82,False,https://www.linkedin.com/in/camilo-quiceno-sosa-37a312a5/,,,,,,8
+83,False,https://www.linkedin.com/in/magaly-heredia/,,,,,,8
+84,False,https://www.linkedin.com/in/fabio-andres-aguirre-orozco-26079556/,,,,,,8
+85,False,https://www.linkedin.com/in/nestor-arbelaez/,,,,,,8
+86,False,https://www.linkedin.com/in/fabio-de-jesus-gaviria-betancur-ba27412b/,,,,,,8
+87,False,https://www.linkedin.com/in/linaportillo/,,,,,,8
+88,False,https://www.linkedin.com/in/katerinemolinatriana/,,,,,,8
+89,False,https://www.linkedin.com/in/estivenpabon/,,,,,,8
+90,False,https://www.linkedin.com/in/logranda/,,,,,,9
+91,False,https://www.linkedin.com/in/cmlarrahondo/,,,,,,9
+92,False,https://www.linkedin.com/in/juan-manuel-puyo-casas-83933490/,,,,,,9
+93,False,https://www.linkedin.com/in/resolve-studio-164198104/,,,,,,9
+94,False,https://www.linkedin.com/in/yulied-andrea-quiroz-201b54152/,,,,,,9
+95,False,https://www.linkedin.com/in/juan-david-cort%C3%A9s-castillo-a92749103/,,,,,,9
+96,False,https://www.linkedin.com/in/carolina-velez-5639903b/,,,,,,9
+97,False,https://www.linkedin.com/in/juan-carlos-cardozo-376b60184/,,,,,,9
+98,False,https://www.linkedin.com/in/andres-castro-29728812a/,,,,,,9
+99,False,https://www.linkedin.com/in/celeritum-colombia-012173126/,,,,,,9
+100,False,https://www.linkedin.com/in/santiago-pineda-332674162/,,,,,,10
+101,False,https://www.linkedin.com/in/nickrodriguez814/,,,,,,10
+102,False,https://www.linkedin.com/in/edwinchapueltello/,,,,,,10
+103,False,https://www.linkedin.com/in/william-valenzuela-sierra-a854032a/,,,,,,10
+104,False,https://www.linkedin.com/in/natalia-giraldo-g%C3%B3mez-76090210a/,,,,,,10
+105,False,https://www.linkedin.com/in/laura-tabares-hern%C3%A1ndez-99a124141/,,,,,,10
+106,False,https://www.linkedin.com/in/ajhenaor/,,,,,,10
+107,False,https://www.linkedin.com/in/juangz/,,,,,,10
+108,False,https://www.linkedin.com/in/alejandro-uribe-sanchez-15759b55/,,,,,,10
+109,False,https://www.linkedin.com/in/jfcalleh/,,,,,,10
+110,False,https://www.linkedin.com/in/santiago-montoya-74b8a7132/,,,,,,11
+111,False,https://www.linkedin.com/in/laura-farine-builes-21660816a/,,,,,,11
+112,False,https://www.linkedin.com/in/dahiana-uribe-62062b71/,,,,,,11
+113,False,https://www.linkedin.com/in/anthonydiazs/,,,,,,11
+114,False,https://www.linkedin.com/in/isoptimo-sistemas-digitales-de-gestion/,,,,,,11
+115,False,https://www.linkedin.com/in/didierramos/,,,,,,11
+116,False,https://www.linkedin.com/in/tatiana-tejada-02376615b/,,,,,,11
+117,False,https://www.linkedin.com/in/dayan-jose-marchena-galofre-11605216b/,,,,,,11
+118,False,https://www.linkedin.com/in/erika-a-gonzalez-r-25a04518a/,,,,,,11
+119,False,https://www.linkedin.com/in/jhon-edison-escobar-londo%C3%B1o-05572913a/,,,,,,11
+120,False,https://www.linkedin.com/in/leogarcia89/,,,,,,12
+121,False,https://www.linkedin.com/in/camilo-paez-42884624/,,,,,,12
+122,False,https://www.linkedin.com/in/steffanny-gil-morales-56434a155/,,,,,,12
+123,False,https://www.linkedin.com/in/diana-suarez-82bb70152/,,,,,,12
+124,False,https://www.linkedin.com/in/diego-alejandro-acosta-ortiz-62359113/,,,,,,12
+125,False,https://www.linkedin.com/in/daniel-l%C3%B3pez-zuleta-363065139/,,,,,,12
+126,False,https://www.linkedin.com/in/gil-sanchez/,,,,,,12
+127,False,https://www.linkedin.com/in/ervin-ayala/,,,,,,12
+128,False,https://www.linkedin.com/in/daniela-escobar-cadavid-03a347158/,,,,,,12
+129,False,https://www.linkedin.com/in/tatiana-duarte-hernandez-b16936164/,,,,,,12
+130,False,https://www.linkedin.com/in/victorhoyos/,,,,,,13
+131,False,https://www.linkedin.com/in/sebastiangaviriajaramillo/,,,,,,13
+132,False,https://www.linkedin.com/in/jhonatan-acelas-arevalo-67732354/,,,,,,13
+133,False,https://www.linkedin.com/in/miguel-angel-bisacorporation-890a4b172/,,,,,,13
+134,False,https://www.linkedin.com/in/estiven-alejandro-bedoya-valencia-29808b4a/,,,,,,13
+135,False,https://www.linkedin.com/in/joanna-barrero-villalba-b2ab1033/,,,,,,13
+136,False,https://www.linkedin.com/in/juan-fernando-ram%C3%ADrez-mar%C3%ADn-4291b411/,,,,,,13
+137,False,https://www.linkedin.com/in/fabiana-guerrero-carrascal-26960b166/,,,,,,13
+138,False,https://www.linkedin.com/in/simonperezmo/,,,,,,13
+139,False,https://www.linkedin.com/in/juancamilonieto/,,,,,,13
+140,False,https://www.linkedin.com/in/felipe-ocampo-540909179/,,,,,,14
+141,False,https://www.linkedin.com/in/daniela-orellana-230054161/,,,,,,14
+142,False,https://www.linkedin.com/in/andres-doncel/,,,,,,14
+143,False,https://www.linkedin.com/in/santiago-giraldo-ardila-aa2734152/,,,,,,14
+144,False,https://www.linkedin.com/in/catalina-torres-aa214215b/,,,,,,14
+145,False,https://www.linkedin.com/in/glinerosuarez/,,,,,,14
+146,False,https://www.linkedin.com/in/consultor-comercial-095abb16b/,,,,,,14
+147,False,https://www.linkedin.com/in/sergiotorresvaldivieso/,,,,,,14
+148,False,https://www.linkedin.com/in/diego-j-ospina-silvera-023551167/,,,,,,14
+149,False,https://www.linkedin.com/in/samayda-mejias-43874b124/,,,,,,14
+150,False,https://www.linkedin.com/in/jesus-martheyn-583a7382/,,,,,,15
+151,False,https://www.linkedin.com/in/pavelfrancomarin/,,,,,,15
+152,False,https://www.linkedin.com/in/camiloamartinez/,,,,,,15
+153,False,https://www.linkedin.com/in/luis-andres-caicedo-estela-6b22a316a/,,,,,,15
+154,False,https://www.linkedin.com/in/jimmybautista/,,,,,,15
+155,False,https://www.linkedin.com/in/elilopezsu/,,,,,,15
+156,False,https://www.linkedin.com/in/johnny-cardona-684272165/,,,,,,15
+157,False,https://www.linkedin.com/in/ynirak/,,,,,,15
+158,False,https://www.linkedin.com/in/rosales-pajaro-lorena/,,,,,,15
+159,False,https://www.linkedin.com/in/elberaguilar/,,,,,,15
+160,False,https://www.linkedin.com/in/jesus-martheyn-583a7382/,,,,,,15
+161,False,https://www.linkedin.com/in/pavelfrancomarin/,,,,,,15
+162,False,https://www.linkedin.com/in/camiloamartinez/,,,,,,15
+163,False,https://www.linkedin.com/in/luis-andres-caicedo-estela-6b22a316a/,,,,,,15
+164,False,https://www.linkedin.com/in/jimmybautista/,,,,,,15
+165,False,https://www.linkedin.com/in/elilopezsu/,,,,,,15
+166,False,https://www.linkedin.com/in/johnny-cardona-684272165/,,,,,,15
+167,False,https://www.linkedin.com/in/ynirak/,,,,,,15
+168,False,https://www.linkedin.com/in/rosales-pajaro-lorena/,,,,,,15
+169,False,https://www.linkedin.com/in/elberaguilar/,,,,,,15
+170,False,https://www.linkedin.com/in/damian-hernadez-11b68293/,,,,,,16
+171,False,https://www.linkedin.com/in/mar%C3%ADa-claudia-quintero-ramirez-92499065/,,,,,,16
+172,False,https://www.linkedin.com/in/astrid-j-r-80300882/,,,,,,16
+173,False,https://www.linkedin.com/in/stepfanysaiz/,,,,,,16
+174,False,https://www.linkedin.com/in/rigar23/,,,,,,16
+175,False,https://www.linkedin.com/in/william-bernal-fierro-31605632/,,,,,,16
+176,False,https://www.linkedin.com/in/liliana-patricia-mendez-parra-816400173/,,,,,,16
+177,False,https://www.linkedin.com/in/juliver-gil-herrera-1b81aa3b/,,,,,,16
+178,False,https://www.linkedin.com/in/edudidactical/,,,,,,16
+179,False,https://www.linkedin.com/in/cristian-ortiz1/,,,,,,16
+180,False,https://www.linkedin.com/in/edier-martinez-barrios-a65896174/,,,,,,17
+181,False,https://www.linkedin.com/in/daniel-parra-sanabria-56814369/,,,,,,17
+182,False,https://www.linkedin.com/in/miguellangelhs/,,,,,,17
+183,False,https://www.linkedin.com/in/sallyalfonsoqa/,,,,,,17
+184,False,https://www.linkedin.com/in/hafiz-uddin-3a908415b/,,,,,,17
+185,False,https://www.linkedin.com/in/pipecaniza/,,,,,,17
+186,False,https://www.linkedin.com/in/santiagovelezr/,,,,,,17
+187,False,https://www.linkedin.com/in/juanfernandocespedes/,,,,,,17
+188,False,https://www.linkedin.com/in/mar%C3%ADa-camila-pati%C3%B1o-mu%C3%B1eton-376172152/,,,,,,17
+189,False,https://www.linkedin.com/in/wilson-lizarazo-salcedo-6bb37919/,,,,,,17
+190,False,https://www.linkedin.com/in/daniel-ocampo-517979148/,,,,,,18
+191,False,https://www.linkedin.com/in/ana-mar%C3%ADa-hern%C3%A1ndez-07570818b/,,,,,,18
+192,False,https://www.linkedin.com/in/lvtrujillot/,,,,,,18
+193,False,https://www.linkedin.com/in/hern%C3%A1n-dar%C3%ADo-vanegas-madrigal-321400129/,,,,,,18
+194,False,https://www.linkedin.com/in/esteban-ramirez-0522bab8/,,,,,,18
+195,False,https://www.linkedin.com/in/daniel-g%C3%B3mez-osorio-69a99716b/,,,,,,18
+196,False,https://www.linkedin.com/in/luis-berm%C3%BAdez-torres-6b0901116/,,,,,,18
+197,False,https://www.linkedin.com/in/karolina-castillo-seth-6aab02b2/,,,,,,18
+198,False,https://www.linkedin.com/in/joaqu%C3%ADn-ureta-98153588/,,,,,,18
+199,False,https://www.linkedin.com/in/stuart-faulk-7679557/,,,,,,18
+200,False,https://www.linkedin.com/in/sebastian-jimenez-parra-234281130/,,,,,,19
+201,False,https://www.linkedin.com/in/saskia-ortiz-padilla-394b42b5/,,,,,,19
+202,False,https://www.linkedin.com/in/daguima/,,,,,,19
+203,False,https://www.linkedin.com/in/santiago-s%C3%A1nchez-duque-36114b124/,,,,,,19
+204,False,https://www.linkedin.com/in/andres-restrepo-302790105/,,,,,,19
+205,False,https://www.linkedin.com/in/edgarv07/,,,,,,19
+206,False,https://www.linkedin.com/in/luisa-fernanda-londo%C3%B1o-gomez-0a4810176/,,,,,,19
+207,False,https://www.linkedin.com/in/e-bitware/,,,,,,19
+208,False,https://www.linkedin.com/in/manuela-guzman-yepes-41820517b/,,,,,,19
+209,False,https://www.linkedin.com/in/leticia-naranjo/,,,,,,19
+210,False,https://www.linkedin.com/in/juan-carlos-salazar-uribe-b23a4266/,,,,,,20
+211,False,https://www.linkedin.com/in/daniela-arenasv/,,,,,,20
+212,False,https://www.linkedin.com/in/neivi-luz-gutierrez-romero-282001141/,,,,,,20
+213,False,https://www.linkedin.com/in/albeiro-espinosa-bedoya-a67a82a9/,,,,,,20
+214,False,https://www.linkedin.com/in/yamilet-casanova-740603162/,,,,,,20
+215,False,https://www.linkedin.com/in/edwinmauriciogallegobrown/,,,,,,20
+216,False,https://www.linkedin.com/in/cindy-paola-bola%C3%B1o-catalan-6a053a17b/,,,,,,20
+217,False,https://www.linkedin.com/in/aivlis/,,,,,,20
+218,False,https://www.linkedin.com/in/juan-david-vel%C3%A1squez-henao-94078979/,,,,,,20
+219,False,https://www.linkedin.com/in/erika-montiel-684bb79/,,,,,,20
+220,False,https://www.linkedin.com/in/gianninarracci/,,,,,,21
+221,False,https://www.linkedin.com/in/c%C3%A9sar-patino-executive-mba-467a5437/,,,,,,21
+222,False,https://www.linkedin.com/in/natalia-zapata-cano-3864b3175/,,,,,,21
+223,False,https://www.linkedin.com/in/sergio-alejandro-calderon-villanueva-202b1564/,,,,,,21
+224,False,https://www.linkedin.com/in/dcdanielca/,,,,,,21
+225,False,https://www.linkedin.com/in/jorgeleiva93/,,,,,,21
+226,False,https://www.linkedin.com/in/juan-camilo-garcia-ab807996/,,,,,,21
+227,False,https://www.linkedin.com/in/dfmarulanda/,,,,,,21
+228,False,https://www.linkedin.com/in/turibe/,,,,,,21
+229,False,https://www.linkedin.com/in/jorgedlr89/,,,,,,21
+230,False,https://www.linkedin.com/in/bernardo-diaz/,,,,,,22
+231,False,https://www.linkedin.com/in/michael-muriel-21452a156/,,,,,,22
+232,False,https://www.linkedin.com/in/minerva-salazar-79644390/,,,,,,22
+233,False,https://www.linkedin.com/in/carlos-ramon-perez-ossa-201b1017b/,,,,,,22
+234,False,https://www.linkedin.com/in/ron-ariel-publico-3bb47074/,,,,,,22
+235,False,https://www.linkedin.com/in/maria-gabriela-cumana-pati%C3%B1o-b1a356124/,,,,,,22
+236,False,https://www.linkedin.com/in/fnegrotto/,,,,,,22
+237,False,https://www.linkedin.com/in/tania-gomez-rubio-4020a956/,,,,,,22
+238,False,https://www.linkedin.com/in/daniel-felipe-salgado-aguirre-99855620/,,,,,,22
+239,False,https://www.linkedin.com/in/martha-liliana-sanabria-melo-8b4b054a/,,,,,,22
+240,False,https://www.linkedin.com/in/michael-muyco-923847171/,,,,,,23
+241,False,https://www.linkedin.com/in/stephania-luque-74369611b/,,,,,,23
+242,False,https://www.linkedin.com/in/melina-belen-di-lorenzo-aa2334166/,,,,,,23
+243,False,https://www.linkedin.com/in/daniel-pab%C3%B3n-arango-9197ab175/,,,,,,23
+244,False,https://www.linkedin.com/in/brian-otero-61978461/,,,,,,23
+245,False,https://www.linkedin.com/in/oscar-alberto-delgado-sandoval-586b83127/,,,,,,23
+246,False,https://www.linkedin.com/in/roger-cuervo-2688127a/,,,,,,23
+247,False,https://www.linkedin.com/in/ang%C3%A9lica-r-676636169/,,,,,,23
+248,False,https://www.linkedin.com/in/juancarlosgalindonavarro/,,,,,,23
+249,False,https://www.linkedin.com/in/natalia-arango-goglt/,,,,,,23
+250,False,https://www.linkedin.com/in/michael-muyco-923847171/,,,,,,23
+251,False,https://www.linkedin.com/in/stephania-luque-74369611b/,,,,,,23
+252,False,https://www.linkedin.com/in/melina-belen-di-lorenzo-aa2334166/,,,,,,23
+253,False,https://www.linkedin.com/in/daniel-pab%C3%B3n-arango-9197ab175/,,,,,,23
+254,False,https://www.linkedin.com/in/brian-otero-61978461/,,,,,,23
+255,False,https://www.linkedin.com/in/cristhiana%C3%B1asco/,,,,,,23
+256,False,https://www.linkedin.com/in/oscar-alberto-delgado-sandoval-586b83127/,,,,,,23
+257,False,https://www.linkedin.com/in/roger-cuervo-2688127a/,,,,,,23
+258,False,https://www.linkedin.com/in/ang%C3%A9lica-r-676636169/,,,,,,23
+259,False,https://www.linkedin.com/in/juancarlosgalindonavarro/,,,,,,23
+260,False,https://www.linkedin.com/in/natalia-arango-goglt/,,,,,,24
+261,False,https://www.linkedin.com/in/jos%C3%A9-humberto-jaramillo-%C3%A1lvarez-51b721148/,,,,,,24
+262,False,https://www.linkedin.com/in/matthieu-tenenbaum-01852412/,,,,,,24
+263,False,https://www.linkedin.com/in/reyna-a-urbano-1a8558135/,,,,,,24
+264,False,https://www.linkedin.com/in/natalia-gonzalez-80391715/,,,,,,24
+265,False,https://www.linkedin.com/in/guillermoaguirreabad/,,,,,,24
+266,False,https://www.linkedin.com/in/laura-solano-veloza-910276109/,,,,,,24
+267,False,https://www.linkedin.com/in/jahaira-aldana-jim%C3%A9nez-51279a56/,,,,,,24
+268,False,https://www.linkedin.com/in/alonso-fallas-garro-214a39129/,,,,,,24
+269,False,https://www.linkedin.com/in/sara-hincapi%C3%A9-posada-558217132/,,,,,,24
+270,False,https://www.linkedin.com/in/arieldulman/,,,,,,25
+271,False,https://www.linkedin.com/in/andr%C3%A9s-castellanos-42619596/,,,,,,25
+272,False,https://www.linkedin.com/in/jeanpaulforero/,,,,,,25
+273,False,https://www.linkedin.com/in/jonathanortizrodas/,,,,,,25
+274,False,https://www.linkedin.com/in/hernanestrin/,,,,,,25
+275,False,https://www.linkedin.com/in/estefan%C3%ADa-arango-ospina/,,,,,,25
+276,False,https://www.linkedin.com/in/lorena-mu%C3%B1oz-isaza-2a9135143/,,,,,,25
+277,False,https://www.linkedin.com/in/victor-hugo-mendez-dominguez-7b9848159/,,,,,,25
+278,False,https://www.linkedin.com/in/sergio-perez-444728137/,,,,,,25
+279,False,https://www.linkedin.com/in/juansebastianherreracobo3712/,,,,,,25
+280,False,https://www.linkedin.com/in/guiovanny-gonzalez-0a965379/,,,,,,26
+281,False,https://www.linkedin.com/in/edgarleandrojimenez/,,,,,,26
+282,False,https://www.linkedin.com/in/johnroa27/,,,,,,26
+283,False,https://www.linkedin.com/in/valentina-cadena-01975a156/,,,,,,26
+284,False,https://www.linkedin.com/in/anibal-ceballos-44859455/,,,,,,26
+285,False,https://www.linkedin.com/in/andres-mateo-garces-arboleda-46743bb2/,,,,,,26
+286,False,https://www.linkedin.com/in/luis-enrique-espinoza-mendoza-20015832/,,,,,,26
+287,False,https://www.linkedin.com/in/jmillan/,,,,,,26
+288,False,https://www.linkedin.com/in/ana-cristina-garcia-arambarri-12765b22/,,,,,,26
+289,False,https://www.linkedin.com/in/giovanny-martinez-chaparro-766084181/,,,,,,26
+290,False,https://www.linkedin.com/in/jaime-andr%C3%A9s-parra-mora-982975b6/,,,,,,27
+291,False,https://www.linkedin.com/in/julianasanchezit/,,,,,,27
+292,False,https://www.linkedin.com/in/john-freddy-gonzalez-gil-a6031965/,,,,,,27
+293,False,https://www.linkedin.com/in/orlando-meneses-23068813/,,,,,,27
+294,False,https://www.linkedin.com/in/angela-maria-casta%C3%B1o-villamil-3438666a/,,,,,,27
+295,False,https://www.linkedin.com/in/juandavidherrera/,,,,,,27
+296,False,https://www.linkedin.com/in/carlos-mario-zapata-jaramillo-159a0943/,,,,,,27
+297,False,https://www.linkedin.com/in/alejandro-arango-30308034/,,,,,,27
+298,False,https://www.linkedin.com/in/mario-cobaleda-a71034121/,,,,,,27
+299,False,https://www.linkedin.com/in/ricardofrailerojas/,,,,,,27
+300,False,https://www.linkedin.com/in/martha-liliana-sanabria-melo-8b4b054a/,,,,,,28
+301,False,https://www.linkedin.com/in/carlospatinocabrera/,,,,,,28
+302,False,https://www.linkedin.com/in/paulo-taja-35a56a9b/,,,,,,28
+303,False,https://www.linkedin.com/in/pablo-arango-0a650737/,,,,,,28
+304,False,https://www.linkedin.com/in/maria-velez-05b75733/,,,,,,28
+305,False,https://www.linkedin.com/in/jnhernandz/,,,,,,28
+306,False,https://www.linkedin.com/in/laura-bernal-ram%C3%ADrez-8b998abb/,,,,,,28
+307,False,https://www.linkedin.com/in/authorgreateststories/,,,,,,28
+308,False,https://www.linkedin.com/in/jaime-ortiz-sedano-b98b8ba3/,,,,,,28
+309,False,https://www.linkedin.com/in/santiagogonzalezr/,,,,,,28
+310,False,https://www.linkedin.com/in/apontejennyp/,,,,,,29
+311,False,https://www.linkedin.com/in/ricardo-rodriguez-chan/,,,,,,29
+312,False,https://www.linkedin.com/in/juan-carlos-sanchez-villarreal-711545100/,,,,,,29
+313,False,https://www.linkedin.com/in/ogiraldo/,,,,,,29
+314,False,https://www.linkedin.com/in/nathalyvillamor/,,,,,,29
+315,False,https://www.linkedin.com/in/daecheverris/,,,,,,29
+316,False,https://www.linkedin.com/in/juan-isaza-aristiz%C3%A1bal-070a1190/,,,,,,29
+317,False,https://www.linkedin.com/in/solvo-global-188b64178/,,,,,,29
+318,False,https://www.linkedin.com/in/natalia-borrego-a7796128/,,,,,,29
+319,False,https://www.linkedin.com/in/luis-fernando-garc%C3%ADa-g-a7477077/,,,,,,29
+320,False,https://www.linkedin.com/in/veromero91/,,,,,,30
+321,False,https://www.linkedin.com/in/luis-miguel-pulido-40799a38/,,,,,,30
+322,False,https://www.linkedin.com/in/marcvilallimos/,,,,,,30
+323,False,https://www.linkedin.com/in/luisahincapie26/,,,,,,30
+324,False,https://www.linkedin.com/in/aldrin-dave-conde-614921129/,,,,,,30
+325,False,https://www.linkedin.com/in/carlossarmientog/,,,,,,30
+326,False,https://www.linkedin.com/in/tng-rodrigo-enrique-gallardo-lozano-049a6517/,,,,,,30
+327,False,https://www.linkedin.com/in/felicitas-frontini/,,,,,,30
+328,False,https://www.linkedin.com/in/mailenpellegrino/,,,,,,30
+329,False,https://www.linkedin.com/in/santiago-covelli/,,,,,,30
+330,False,https://www.linkedin.com/in/merwin-ponce-a371a5b1/,,,,,,31
+331,False,https://www.linkedin.com/in/yeimy-carolina-martinez-urue%C3%B1a-9b591b122/,,,,,,31
+332,False,https://www.linkedin.com/in/harsh-pandit-4a5b03a4/,,,,,,31
+333,False,https://www.linkedin.com/in/julia-gv/,,,,,,31
+334,False,https://www.linkedin.com/in/sebastian-duque-1b992373/,,,,,,31
+335,False,https://www.linkedin.com/in/valeria-alejandra-mendoza-c%C3%B3rdova-2a0508177/,,,,,,31
+336,False,https://www.linkedin.com/in/aura-cristina-montoya-a85b45102/,,,,,,31
+337,False,https://www.linkedin.com/in/maria-cecilia-gerardi/,,,,,,31
+338,False,https://www.linkedin.com/in/fernando-zamorano-06ab7444/,,,,,,31
+339,False,https://www.linkedin.com/in/centro-de-salud-vg-01aa07bb/,,,,,,31
+340,False,https://www.linkedin.com/in/md-kabir-hossain-a172a5158/,,,,,,32
+341,False,https://www.linkedin.com/in/hildebrando-tapias-ramirez-50830493/,,,,,,32
+342,False,https://www.linkedin.com/in/danielaossa/,,,,,,32
+343,False,https://www.linkedin.com/in/joel-olazagoitia-652a0313/,,,,,,32
+344,False,https://www.linkedin.com/in/has-reyes/,,,,,,32
+345,False,https://www.linkedin.com/in/juanhasbun/,,,,,,32
+346,False,https://www.linkedin.com/in/santiagoherediao/,,,,,,32
+347,False,https://www.linkedin.com/in/gustavo-davila-inventor/,,,,,,32
+348,False,https://www.linkedin.com/in/daniel-santiago-pe%C3%B1a-salazar-143415b6/,,,,,,32
+349,False,https://www.linkedin.com/in/santiago-castro-11a17119/,,,,,,32
+350,False,https://www.linkedin.com/in/davidlondono9/,,,,,,33
+351,False,https://www.linkedin.com/in/florencia-a-parenti-37b015170/,,,,,,33
+352,False,https://www.linkedin.com/in/mimpallari/,,,,,,33
+353,False,https://www.linkedin.com/in/juan-carlos-arango-v%C3%A1squez-1b423137/,,,,,,33
+354,False,https://www.linkedin.com/in/gjhernandezo/,,,,,,33
+355,False,https://www.linkedin.com/in/mateoburgosmbc/,,,,,,33
+356,False,https://www.linkedin.com/in/mar%C3%ADa-gabriela-cumana-pati%C3%B1o-970287b9/,,,,,,33
+357,False,https://www.linkedin.com/in/henry-he-b78616147/,,,,,,33
+358,False,https://www.linkedin.com/in/jeisson-esteban-rodr%C3%ADguez-urrea-54a07180/,,,,,,33
+359,False,https://www.linkedin.com/in/jad-p-35a61a142/,,,,,,33
+360,False,https://www.linkedin.com/in/charlesfoelliii/,,,,,,34
+361,False,https://www.linkedin.com/in/civangonzales/,,,,,,34
+362,False,https://www.linkedin.com/in/mahfuz-milon-prodhan-561029102/,,,,,,34
+363,False,https://www.linkedin.com/in/ferbernalromo/,,,,,,34
+364,False,https://www.linkedin.com/in/briantneira/,,,,,,34
+365,False,https://www.linkedin.com/in/camilo-parra-gonz%C3%A1lez-01119756/,,,,,,34
+366,False,https://www.linkedin.com/in/charlesfoelliii/,,,,,,34
+367,False,https://www.linkedin.com/in/civangonzales/,,,,,,34
+368,False,https://www.linkedin.com/in/mahfuz-milon-prodhan-561029102/,,,,,,34
+369,False,https://www.linkedin.com/in/ferbernalromo/,,,,,,34
+370,False,https://www.linkedin.com/in/briantneira/,,,,,,34
+371,False,https://www.linkedin.com/in/camilo-parra-gonz%C3%A1lez-01119756/,,,,,,34
